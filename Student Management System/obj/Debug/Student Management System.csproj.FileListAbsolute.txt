@@ -1,0 +1,20 @@
+E:\UOK\YEAR 3\SEM 1\COST 31513 VP\Student Management System\Student Management System\bin\Debug\Student Management System.exe.config
+E:\UOK\YEAR 3\SEM 1\COST 31513 VP\Student Management System\Student Management System\bin\Debug\Student Management System.exe
+E:\UOK\YEAR 3\SEM 1\COST 31513 VP\Student Management System\Student Management System\bin\Debug\Student Management System.pdb
+E:\UOK\YEAR 3\SEM 1\COST 31513 VP\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+E:\UOK\YEAR 3\SEM 1\COST 31513 VP\Student Management System\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+E:\UOK\YEAR 3\SEM 1\COST 31513 VP\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.cache
+E:\UOK\YEAR 3\SEM 1\COST 31513 VP\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+E:\UOK\YEAR 3\SEM 1\COST 31513 VP\Student Management System\Student Management System\obj\Debug\Student Management System.exe
+E:\UOK\YEAR 3\SEM 1\COST 31513 VP\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
+E:\UOK\YEAR 3\SEM 1\COST 31513 VP\Student Management System\Student Management System\bin\Debug\Guna.UI2.dll
+E:\UOK\YEAR 3\SEM 1\COST 31513 VP\Student Management System\Student Management System\obj\Debug\Student_Management_System.login.resources
+E:\UOK\YEAR 3\SEM 1\COST 31513 VP\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.CopyComplete
+E:\UOK\YEAR 3\SEM 1\COST 31513 VP\Student Management System\Student Management System\obj\Debug\Student_Management_System.Mainform.resources
+E:\UOK\YEAR 3\SEM 1\COST 31513 VP\Student Management System\Student Management System\obj\Debug\Student_Management_System.Student.resources
+E:\UOK\YEAR 3\SEM 1\COST 31513 VP\Student Management System\Student Management System\obj\Debug\Student_Management_System.Professors.resources
+E:\UOK\YEAR 3\SEM 1\COST 31513 VP\Student Management System\Student Management System\obj\Debug\Student_Management_System.Fees.resources
+E:\UOK\YEAR 3\SEM 1\COST 31513 VP\Student Management System\Student Management System\obj\Debug\Student_Management_System.Departments.resources
+E:\UOK\YEAR 3\SEM 1\COST 31513 VP\Student Management System\Student Management System\obj\Debug\Student_Management_System.UserForm.resources
+E:\UOK\YEAR 3\SEM 1\COST 31513 VP\Student Management System\Student Management System\obj\Debug\Student_Management_System.Dashboard.resources
+E:\UOK\YEAR 3\SEM 1\COST 31513 VP\Student Management System\Student Management System\obj\Debug\Student_Management_System.welcome.resources
